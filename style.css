@@ -1,0 +1,14 @@
+h2, h3, p,  h6{
+    align-items: center;
+    text-align: center;
+}
+.main{
+    width: 315px;
+}
+.form-control{
+    width: 34s5px;
+}
+body{
+    font-weight: bold;
+    background-color: bisque;
+}
